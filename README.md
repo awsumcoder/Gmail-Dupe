@@ -1,2 +1,2 @@
 # Gmail-Dupe
-A Gmail duplicate application using angular
+A Gmail duplicate application using Angular.JS
